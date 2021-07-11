@@ -5,6 +5,6 @@ This project was made to Colt Steel BootCamp.
 Features:
 
 - Layout:
-  -FlexBox
-  -Grid
+  - FlexBox
+  - Grid
 - Media Queries
